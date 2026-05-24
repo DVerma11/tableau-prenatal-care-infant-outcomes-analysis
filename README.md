@@ -1,7 +1,11 @@
 
 
 # Examining Prenatal Care and Infant Outcomes by Race Across U.S. Regions Using CDC Natality Data
+## Interactive Tableau Workbook
 
+Download the Tableau packaged workbook below to explore the full interactive dashboards and story analysis.
+
+---
 ## Project Overview
 This Tableau visualization project examines racial and geographic disparities in prenatal care utilization and infant birth outcomes across the United States using CDC Natality data.
 
