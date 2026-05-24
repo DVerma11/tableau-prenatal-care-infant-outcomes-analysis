@@ -43,6 +43,53 @@ Datasets used:
 - Correlation analysis between prenatal care and infant outcomes
 
 ---
+## Tableau Story Overview
+
+![Story Overview](Story overview page.png)
+
+---
+
+## Dashboard 1 — National Trends in Prenatal Care and Infant Outcomes
+
+![Dashboard 1](Dashboard A.png)
+
+---
+
+## Dashboard 2 — State-Level Prenatal Care Disparities
+
+![Dashboard 2](Dashboard B.png)
+
+---
+
+## Dashboard 3 — County-Level Prenatal Care Disparities
+
+![Dashboard 3](Dashboard C.png)
+
+---
+
+## Dashboard 4 — State-Level Low Birth Weight Disparities
+
+![Dashboard 4](Dashboard D.png)
+
+---
+
+## Dashboard 5 — County-Level Low Birth Weight Disparities
+
+![Dashboard 5](Dashboard E.png)
+
+---
+
+## Dashboard 6 — Prenatal Care and Infant Outcome Correlation
+
+![Dashboard 6](Dashboard F.png)
+
+---
+
+## Dashboard 7 — High-Disparity Counties
+
+![Dashboard 7](Dashboard G.png)
+
+---
 
 ## Key Findings
 - Southern U.S. regions showed the highest rates of inadequate prenatal care and low birth weight.
