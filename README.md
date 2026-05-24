@@ -45,49 +45,49 @@ Datasets used:
 ---
 ## Tableau Story Overview
 
-![Story Overview](Story overview page.png)
+![Story Overview](H_tableau_story.png)
 
 ---
 
-## Dashboard 1 — National Trends in Prenatal Care and Infant Outcomes
+## Dashboard A — National Trends in Prenatal Care and Infant Outcomes
 
-![Dashboard 1](Dashboard A.png)
-
----
-
-## Dashboard 2 — State-Level Prenatal Care Disparities
-
-![Dashboard 2](Dashboard B.png)
+![Dashboard A](A_dashboard_trends.png)
 
 ---
 
-## Dashboard 3 — County-Level Prenatal Care Disparities
+## Dashboard B — State-Level Prenatal Care Disparities
 
-![Dashboard 3](Dashboard C.png)
-
----
-
-## Dashboard 4 — State-Level Low Birth Weight Disparities
-
-![Dashboard 4](Dashboard D.png)
+![Dashboard B](B_dashboard_prenatal_state.png)
 
 ---
 
-## Dashboard 5 — County-Level Low Birth Weight Disparities
+## Dashboard C — County-Level Prenatal Care Disparities
 
-![Dashboard 5](Dashboard E.png)
-
----
-
-## Dashboard 6 — Prenatal Care and Infant Outcome Correlation
-
-![Dashboard 6](Dashboard F.png)
+![Dashboard C](C_dashboard_prenatal_county.png)
 
 ---
 
-## Dashboard 7 — High-Disparity Counties
+## Dashboard D — State-Level Low Birth Weight Disparities
 
-![Dashboard 7](Dashboard G.png)
+![Dashboard D](D_dashboard_lbw_state.png)
+
+---
+
+## Dashboard E — County-Level Low Birth Weight Disparities
+
+![Dashboard E](E_dashboard_lbw_county.png)
+
+---
+
+## Dashboard F — Prenatal Care and Infant Outcome Correlation
+
+![Dashboard F](F_dashboard_correlation.png)
+
+---
+
+## Dashboard G — High-Disparity Counties
+
+![Dashboard G](G_dashboard_disparities.png)
 
 ---
 
